@@ -1,0 +1,5 @@
+{
+  "name": "PixelDiff Multi",
+  "description": "A high-performance synchronized image grid for comparing multiple images side-by-side with visual clarity.",
+  "requestFramePermissions": []
+}
